@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+    text-align: justify;
+    background-color: violet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1{
+    background-color: bisque;
+    color: brown;
+}
+h2{
+    color: palevioletred;
+}
